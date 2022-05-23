@@ -43,6 +43,6 @@ class JavaQuestionServiceTest {
     }
 
     @Test
-    void test_getRandomQuestion() {
+    void test_getRandom() {
     }
 }
